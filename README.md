@@ -4,7 +4,7 @@ Static archive of the website that ran at **best.hr/ebec** until 2026-09-10, whe
 behind it was retired. Every page here is plain HTML. There is no database, no PHP and nothing to
 keep patched.
 
-Intended home: **ebec.best.hr**
+Home: **https://ebec.best.hr/**
 
 - 14 published pages, 131 files, 18.9 MB
 - Verified: every page and asset requested over HTTP, 118 URLs, **0 failures**
@@ -68,6 +68,11 @@ page, `o-nama/faq/`, `organizacijski-tim/ziri/` and the two rebuilt English page
 The content, images and copy belong to BEST Zagreb. Third-party theme and plugin assets under
 `wp-content/` remain under their own licences and are included only because the pages need them to
 render as they originally did.
+
+## Hosting
+
+Live at <https://ebec.best.hr/>, served by Cloudflare Workers as static files straight from this repository.
+This repository is archived and read-only: the site it holds is finished. If something must change, unarchive it, push to `main`, and Workers Builds redeploys within a minute or two.
 
 ## Wayback Machine
 
