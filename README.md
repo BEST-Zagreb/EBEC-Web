@@ -68,3 +68,9 @@ page, `o-nama/faq/`, `organizacijski-tim/ziri/` and the two rebuilt English page
 The content, images and copy belong to BEST Zagreb. Third-party theme and plugin assets under
 `wp-content/` remain under their own licences and are included only because the pages need them to
 render as they originally did.
+
+## Wayback Machine
+
+The site ran at <https://best.hr/ebec/>. The Internet Archive's calendar for it is <https://web.archive.org/web/*/https://best.hr/ebec/*>.
+Checked on 2026-09-11: captures run from 2012-07-28 (the static EBEC Zagreb 2012 site that came before this one) to at least 2025-11-04, with 50 distinct HTML pages answering 200. A fresh capture of every published page was requested on 2026-09-11.
+This repository is the complete copy of the site as it was frozen; the archive is a partial, independent second copy.
