@@ -74,6 +74,10 @@ render as they originally did.
 Live at <https://ebec.best.hr/>, served by Cloudflare Workers as static files straight from this repository.
 This repository is archived and read-only: the site it holds is finished. If something must change, unarchive it, push to `main`, and Workers Builds redeploys within a minute or two.
 
+## Editions
+
+Older editions live in their own repositories and year hostnames, so a rebuild of this site never touches them: the EBEC Challenge Zagreb 2018 site is at <https://2018.ebec.best.hr/> ([EBEC-Web-2018](https://github.com/BEST-Zagreb/EBEC-Web-2018)). The EBEC Final 2022 in Zagreb is at <https://ebecfinal.best.hr/> ([EBEC-Final-Zagreb-2022-Web](https://github.com/BEST-Zagreb/EBEC-Final-Zagreb-2022-Web)). When this edition is replaced, freeze it the same way under `<year>.ebec.best.hr`.
+
 ## Wayback Machine
 
 The site ran at <https://best.hr/ebec/>. The Internet Archive's calendar for it is <https://web.archive.org/web/*/https://best.hr/ebec/*>.
