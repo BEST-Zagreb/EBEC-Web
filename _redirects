@@ -25,3 +25,82 @@
 /:a/:b/:c/:d/feed/ /:a/:b/:c/:d/ 301
 /:a/:b/:c/:d/:e/feed /:a/:b/:c/:d/:e/ 301
 /:a/:b/:c/:d/:e/feed/ /:a/:b/:c/:d/:e/ 301
+
+
+# The old site kept its English pages under /en/, but this copy has them at the top level,
+# so the old /ebec/en/... addresses landed on pages that do not exist here.
+/en/about-us /about-us/ 301
+/en/about-us/ /about-us/ 301
+/en/about-us/faq-en /about-us/faq-en/ 301
+/en/about-us/faq-en/ /about-us/faq-en/ 301
+/en/best-team /best-team/ 301
+/en/best-team/ /best-team/ 301
+/en/best-team/companies /best-team/ 301
+/en/best-team/companies/ /best-team/ 301
+/en/best-team/jury /best-team/jury/ 301
+/en/best-team/jury/ /best-team/jury/ 301
+/en/press-kit-2 /press-kit-2/ 301
+/en/press-kit-2/ /press-kit-2/ 301
+/en/faq /en/ 301
+/en/faq/ /en/ 301
+/en/home /en/ 301
+/en/home/ /en/ 301
+
+# Pages of the old EBEC Zagreb site that have no counterpart here: send each to the closest page,
+# or to the home page, instead of answering 404.
+/ebec-zagreb-about /o-nama/ 301
+/ebec-zagreb-about/ /o-nama/ 301
+/en/ebec-zagreb-about-2 /about-us/ 301
+/en/ebec-zagreb-about-2/ /about-us/ 301
+/ebec-zagreb-faq /o-nama/faq/ 301
+/ebec-zagreb-faq/ /o-nama/faq/ 301
+/en/ebec-zagreb-faq-2 /about-us/faq-en/ 301
+/en/ebec-zagreb-faq-2/ /about-us/faq-en/ 301
+/ebec-zagreb-galerija / 301
+/ebec-zagreb-galerija/ / 301
+/ebec-zagreb-partneri / 301
+/ebec-zagreb-partneri/ / 301
+/ebec-zagreb-partneri-2 / 301
+/ebec-zagreb-partneri-2/ / 301
+/ebec-zagreb-prijava / 301
+/ebec-zagreb-prijava/ / 301
+/ebec-zagreb-prosla-natjecanja / 301
+/ebec-zagreb-prosla-natjecanja/ / 301
+/ebec-zagreb-raspored / 301
+/ebec-zagreb-raspored/ / 301
+/en/ebec-zagreb-apply-now / 301
+/en/ebec-zagreb-apply-now/ / 301
+/en/ebec-zagreb-gallery / 301
+/en/ebec-zagreb-gallery/ / 301
+/en/ebec-zagreb-partners / 301
+/en/ebec-zagreb-partners/ / 301
+/en/ebec-zagreb-past-competitions / 301
+/en/ebec-zagreb-past-competitions/ / 301
+/en/ebec-zagreb-prosla-natjecanja / 301
+/en/ebec-zagreb-prosla-natjecanja/ / 301
+/en/ebec-zagreb-schedule / 301
+/en/ebec-zagreb-schedule/ / 301
+/career-day / 301
+/career-day/ / 301
+/career-day-2 / 301
+/career-day-2/ / 301
+/core-team / 301
+/core-team/ / 301
+/organization-team / 301
+/organization-team/ / 301
+/organizacijski-tim/partneri / 301
+/organizacijski-tim/partneri/ / 301
+/press / 301
+/press/ / 301
+/about / 301
+/about/ / 301
+/contact / 301
+/contact/ / 301
+/livestream / 301
+/livestream/ / 301
+/magic / 301
+/magic/ / 301
+/media / 301
+/media/ / 301
+/partners / 301
+/partners/ / 301
